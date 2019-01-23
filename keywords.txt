@@ -1,0 +1,3 @@
+Pen	KEYWORD1
+changeHeat	KEYWORD2
+changeRelay	KEYWORD2
